@@ -1,6 +1,7 @@
 Book Database
 --------------
-    Welcome, this is a comprehensive database tool for reading in book data and prompting user input records. This program is implemented for Linux OS via bash terminal. 
+    Welcome, this is a comprehensive database tool for reading in book data and prompting user input records. 
+    This program is implemented for Linux OS via bash terminal. 
 
 Instructions for Compiling and Running
 --------------------------------------
