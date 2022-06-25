@@ -1,0 +1,21 @@
+{Apple Bees} {Random Author} {Food Show} {1999} {5}
+{The Tree} {Jessica Schulich} {Nature} {1231} {4}
+{The Willow Sad Tree!} {Meghan Trianer} {Comedy} {1999} {2}
+{Wise Man} ,     {Liley Annah     } {      Tragedy}  {1234} {4}
+{  Cambredia   } {Weiss Schloop} {Narrative} {23423} {6}
+{In Search of Lost Time} {Marcel Proust} {Tragedy} {1913} {14}
+{Ulyssess} {James Joyce} {History} {2001} {90}
+{Don Quixote} {Miguel de Cervantes} {Romance, Comedy} {70676} {12}
+{One Hundred Years of Solitude} {Gabriel Garcia Marquez} {Philosophy, Non-Fiction} {1997} {4}
+{The Great Gatsby} {F.Scott Fitzgerald} {Histor, War, Tragedy} {1768} {10}
+{Moby Dick} {Herman Melville} {Literature, Dystopian, Fantasy} {1234} {32}
+{War and Peace} {Leo Tolstoy} {Utopia, Dystopia, Histor} {1234} {43}
+{Hamlet} {William Shakespeare} {Art, Romance, Tragedy} {7653} {34}
+{The Odyssey} {Homer} {Ancient Greek} {123} {42}
+{Madame Bovary} {Gustave Flaubert} {True Crime} {1234} {12}
+{The Divine Comedy} {Dante Alighierir} {Drama} {1234} {43}
+{Lolita} {Vladmir Nabvokov} {Suspense} {4254} {1}
+{The Brothers Karamzov} {Fyodor Dostoyevsky} {True Crime, Mystery, Suspense} {5464} {23}
+{Wuthering Heights} {Emily Bronte} {Teen, Young-Adult-Fiction, Fantasy} {1324} {34}
+{Pride and Prejudice} {Jane Autsne} {Political} {1234} {56}
+{The Adventures of HuckleBerry Finn} {Mark Twain} {Tragedy} {12990} {53} 
